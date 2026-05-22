@@ -1,0 +1,13 @@
+﻿pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+streamlit
+openai
+langchain
+langchain-community
+python-dotenv
+requests
+jupyter
